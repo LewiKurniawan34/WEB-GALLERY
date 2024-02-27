@@ -34,3 +34,11 @@ if ($_SESSION['status'] != 'login') {
     </div>
   </div>
 </nav>
+
+<footer class="d-flex justify-content-center border-top mt-3 bg-light fixed-bottom">
+    <p>&copy; UKK 2024 Lewi Kurniawan||</p>
+</footer>
+
+<script src="assets/js/bootstrap.min.js"></script>
+</body>
+</html>
